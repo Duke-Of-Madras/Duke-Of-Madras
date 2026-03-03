@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Full-Stack Developer | AI Enthusiast | Hackathon Winner</h3>
+  <h3>🚀 Full-Stack Developer | AI Enthusiast</h3>
   <p>I build intelligent, scalable, and visually stunning applications.</p>
 </div>
 
@@ -18,7 +18,6 @@
       <br/><br/>
       <b>Institutional Quality & AI Compliance Monitoring</b>
       <br/>
-      <i>Winner of BIS × VIT Chennai Hackathon</i>
       <br/><br/>
       <a href="https://github.com/Duke-Of-Madras/ManakAI">View Repository</a>
     </td>
