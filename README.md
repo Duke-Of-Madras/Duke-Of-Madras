@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Full-Stack Developer | AI Enthusiast</h3>
+  <h3>🚀 Full-Stack Developer | AI Enthusiast </h3>
   <p>I build intelligent, scalable, and visually stunning applications.</p>
 </div>
 
@@ -76,9 +76,8 @@
 ### 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/sanjay-raj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contact.sanjayraj@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/SanjayRajTech"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanjay-raj-3937b0321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:5233863.sanjay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
@@ -86,3 +85,4 @@
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i>
 </div>
+
