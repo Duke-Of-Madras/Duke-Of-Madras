@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20there,%20I'm%20Duke-Of-Madras!%20👋&fontSize=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20there,%20I'm%20Sanjay Raj!%20👋&fontSize=50&animation=fadeIn" alt="Header" />
 </div>
 
 <div align="center">
-  <h3>🚀 Full-Stack Developer | AI Enthusiast | Hackathon Winner</h3>
+  <h3>🚀 Full-Stack Developer | AI Enthusiast </h3>
   <p>I build intelligent, scalable, and visually stunning applications.</p>
 </div>
 
